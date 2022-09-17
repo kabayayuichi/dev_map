@@ -7,3 +7,5 @@ The eps files are too large (40~50MB), so it might be better to convert into jpe
 To convert povray files, use e.g. "povray -d demo_g2.pov".
 
 You can adjust Fenchel-Nielsen parameters in demo_g2.py. But if the surface group representation is indiscete, eps and pov files will be too much large (maybe over 10GB). I recommend set the number "num_iteration" in demo_g2.py to 5~8 on the first try.
+
+https://github.com/kabayayuichi/dev_map/issues/1#issue-1376652910
