@@ -4,7 +4,7 @@
 
 from dev_map import *
 
-# Create the dual (oriented) graph of a genus 2 surface.
+# Create the dual (oriented) graph of a genus 3 surface.
 v0 = Vertex(); v1 = Vertex(); v2 = Vertex(); v3 = Vertex()
 e0 = Edge(v0, 0, v1, 0); e1 = Edge(v0, 1, v1, 2); e2 = Edge(v0, 2, v2, 1)
 e3 = Edge(v2, 0, v3, 0); e4 = Edge(v2, 2, v3, 1); e5 = Edge(v1, 1, v3, 2)
